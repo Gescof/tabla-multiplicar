@@ -1,3 +1,5 @@
+package com.gescof.basics;
+
 import lombok.extern.log4j.Log4j2;
 
 import java.io.InputStream;
@@ -6,7 +8,7 @@ import java.util.Objects;
 import java.util.Scanner;
 
 /**
- * Application.
+ * com.gescof.basics.Application.
  *
  * @author Guillermo
  * @version 1.0
