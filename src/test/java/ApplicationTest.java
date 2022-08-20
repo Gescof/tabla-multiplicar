@@ -1,10 +1,11 @@
+import com.gescof.basics.Application;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 import java.io.ByteArrayInputStream;
 
 /**
- * Application Tester.
+ * com.gescof.basics.Application Tester.
  *
  * @author Guillermo
  * @version 1.0
